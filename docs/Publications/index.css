@@ -79,9 +79,21 @@
     align-self: flex-start;
   }
   .markdown {
-    width: 80%;
+    width: 90%;
     height: 80%;
     align-self: flex-start;
     overflow-y: auto;
+
+    .article {
+      a {
+        color : #1a0dab;
+        font-size: 1.3rem;
+
+      }
+      div {
+        color: #777777;
+        font-size: 1rem;
+      }
+    }
   }
 }

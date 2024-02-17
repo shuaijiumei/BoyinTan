@@ -1,9 +1,16 @@
 ---
 nav:
   title: CV
-  order: 3
+  order: 9
 
 sidebar: false
 ---
+```tsx
+/**
+ * inline: true
+ */
+import React from 'react';
+import CV from "./CV.tsx";
 
-This is CV.
+export default () => <CV />
+```

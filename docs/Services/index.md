@@ -1,7 +1,7 @@
 ---
 nav:
-  title: About Me
-  order: 0
+  title: Services
+  order: 3
 
 sidebar: false
 ---

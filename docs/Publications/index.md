@@ -5,5 +5,12 @@ nav:
 
 sidebar: false
 ---
+```tsx
+/**
+ * inline: true
+ */
+import React from 'react';
+import Publications from "./Publications.tsx";
 
-This is publications.
+export default () => <Publications />
+```

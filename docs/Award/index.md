@@ -1,7 +1,7 @@
 ---
 nav:
-  title: About Me
-  order: 0
+  title: Awards
+  order: 2
 
 sidebar: false
 ---
